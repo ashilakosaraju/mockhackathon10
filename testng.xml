@@ -11,5 +11,5 @@
       <class name="tests.TransactionTest"/>
       <class name="tests.ValidationTest"/>
     </classes>
-  </test>
+  </test> 
 </suite>

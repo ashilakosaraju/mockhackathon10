@@ -16,7 +16,7 @@ public class ConfigReader {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
+    } 
 
     public String getBrowser() {
         return prop.getProperty("browser");

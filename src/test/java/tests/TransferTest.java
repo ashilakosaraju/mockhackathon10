@@ -25,4 +25,4 @@ public class TransferTest extends BaseTest {
 
         Assert.assertTrue(transferPage.isTransferSuccessful(), "Transfer failed");
     }
-}
+} 

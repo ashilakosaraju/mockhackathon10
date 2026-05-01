@@ -10,7 +10,7 @@ import utils.ConfigReader;
 public class AuthTest extends BaseTest {
 
     @Test(priority = 1)
-    public void registerUser() {
+    public void registerUser() { 
 
         String username = "user" + System.currentTimeMillis();
         String password = "pass123";

@@ -13,7 +13,7 @@ public class AccountTest extends BaseTest {
 
 	    ConfigReader config = new ConfigReader();
 	    driver.get(config.getBaseUrl());
-
+ 
 	    // 🔥 Login FIRST (important)
 	    LoginPage loginPage = new LoginPage(driver);
 	    loginPage.login("john", "demo");

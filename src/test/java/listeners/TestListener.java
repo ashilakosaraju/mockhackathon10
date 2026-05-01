@@ -21,7 +21,7 @@ public class TestListener implements ITestListener {
     @Override
     public void onTestSuccess(ITestResult result) {
         test.pass("Test Passed");
-    }
+    } 
 
     @Override
     public void onTestFailure(ITestResult result) {

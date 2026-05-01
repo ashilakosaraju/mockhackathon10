@@ -21,7 +21,7 @@ public class ValidationPage extends BasePage {
     private By billError = By.xpath("//span[@class='error']");
 
     // 🔹 Actions
-
+ 
     public void openRegister() {
         waitForElement(registerLink);
         driver.findElement(registerLink).click();

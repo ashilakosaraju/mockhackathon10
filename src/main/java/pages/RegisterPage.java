@@ -8,7 +8,7 @@ public class RegisterPage extends BasePage {
 
     public RegisterPage(WebDriver driver) {
         super(driver);
-    }
+    } 
 
     private By registerLink = By.linkText("Register");
 

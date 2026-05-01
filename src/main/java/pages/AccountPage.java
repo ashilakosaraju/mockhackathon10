@@ -9,7 +9,7 @@ public class AccountPage extends BasePage {
 
     public AccountPage(WebDriver driver) {
         super(driver);
-    }
+    } 
 
     // Locators
     private By accountsTable = By.id("accountTable");

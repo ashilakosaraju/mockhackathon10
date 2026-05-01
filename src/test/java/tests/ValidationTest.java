@@ -25,7 +25,7 @@ public class ValidationTest extends BaseTest {
 	    ValidationPage page = new ValidationPage(driver);
 
 	    page.openRegister();
-	    page.submitEmptyRegister();
+	    page.submitEmptyRegister(); 
 
 	    Assert.assertTrue(page.isRegisterErrorDisplayed(), "Register validation failed");
 	}

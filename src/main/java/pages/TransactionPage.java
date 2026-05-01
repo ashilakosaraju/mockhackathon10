@@ -9,7 +9,7 @@ public class TransactionPage extends BasePage {
     public TransactionPage(WebDriver driver) {
         super(driver);
     }
-
+ 
     // 🔹 Locators
 
     // Navigation

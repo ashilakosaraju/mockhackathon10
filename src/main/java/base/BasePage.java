@@ -24,4 +24,4 @@ public class BasePage {
     public void waitForElement(By locator) {
         wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
     }
-}
+} 

@@ -3,7 +3,7 @@
 A Selenium + TestNG test automation framework built in Java for the [ParaBank](https://parabank.parasoft.com/parabank/index.htm) demo banking application. It follows the **Page Object Model (POM)** design pattern and includes HTML reporting via ExtentReports and automatic screenshot capture on failures.
 
 ---
-
+ 
 ## Tech Stack
 
 | Tool / Library        | Version   | Purpose                            |

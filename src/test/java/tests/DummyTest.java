@@ -8,4 +8,4 @@ public class DummyTest extends BaseTest {
     public void testLaunch() {
         System.out.println("Browser Launched Successfully");
     }
-}
+} 

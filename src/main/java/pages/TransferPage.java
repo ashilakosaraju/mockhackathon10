@@ -9,7 +9,7 @@ public class TransferPage extends BasePage {
 
     public TransferPage(WebDriver driver) {
         super(driver);
-    }
+    } 
 
     // Locators
     private By transferLink = By.linkText("Transfer Funds");
